@@ -62,6 +62,7 @@ Expected Output : 'example.com'
 Original String : 'The brown fox'
 Insert 'quick' between 'The' and 'brown'.
 Expected Output : 'The quick brown fox'
+
 18. Write a PHP script to get the first word of a sentence. 
 Original String : 'The quick brown fox'
 Expected Output : 'The'
@@ -84,19 +85,23 @@ Expected Output : 'The quick brown fox jumps over the lazy dog'
 Sample URL : 'http://www.example.com/5478631'
 Expected Output : '5478631'
  
+ //////////////////////////////////////////////////////////////////////////////////////
 18. Write a PHP script to replace Special  characters from the following string. 
 Sample String : '\"\1+2/3*2:2-3/4*3'
 Expected Output : '1 2 3 2 2 3 4 3'
+///////////////////////////////////////////////////////////////////////////////////////
+
  
 19. Write a PHP script to select first 5 words from the following string. 
 Sample String : 'The quick brown fox jumps over the lazy dog'
 Expected Output : 'The quick brown fox jumps'
- 
+ //////////////////////////////////////////////////////////////////////////////////
 20. Write a PHP script to remove comma(s) from the following numeric string. 
 Sample String : '2,543.12'
 Expected Output : 2543.12
- 
+ ///////////////////////////////////////////////////////////////////
 21. Write a PHP script to print letters from 'a' to 'z'. 
 
 
 
+21+19
